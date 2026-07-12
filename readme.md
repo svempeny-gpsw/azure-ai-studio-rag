@@ -11,3 +11,11 @@ View the exercises in the [GitHub Pages site for this repo](https://go.microsoft
 ## Reporting issues
 
 If you encounter any problems in the exercises, please report them as **issues** in this repo.
+
+---
+
+## 📸 Workspace Preview
+
+Here is a preview of the workspace environment showing the tools app setup and the file search/web search tool integrations:
+
+![Workspace Environment Setup](ScreenShots/Screenshot%202026-07-12%20at%2011.07.51%E2%80%AFam.png)
